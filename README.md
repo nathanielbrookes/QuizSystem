@@ -1,5 +1,9 @@
 # Quiz System
 
+<img src='screenshot.png' alt='Screenshot taken using a Teacher account - Teachers can view late or missing submissions' width='400' />
+
+_Screenshot taken using a Teacher account - Teachers can view late or missing submissions_
+
 ## About
 
 I created this application using Python and the Tkinter GUI as part of my A-Level Computer Science coursework.
