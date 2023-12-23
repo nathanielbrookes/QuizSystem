@@ -23,3 +23,8 @@ This desktop GUI-based app can be used by both teachers and students to create a
 * Provides real-time feedback for students when they are completing a quiz and teachers can view the results of students in their classes.
 
 * Provides statistical information for students so that they can track their progress over time.
+
+<br>
+<img src='animation.gif' alt='Example Quiz Demonstration' width='400' />
+
+_Example Quiz Demonstration_
